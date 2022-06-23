@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">chernovikRedOne</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="cd_set_notification">Включить оповещение</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chart">Chart</string>
+    <string name="dollar_list">Dollar list</string>
+</resources>
